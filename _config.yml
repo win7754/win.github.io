@@ -67,12 +67,12 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyllt
+username: win7754
 repo: jasper2
 branch: master
 relative_source: ../jasper2/
 destination: ../jasper2-pages/
-production_url:  https://jekyllt.github.io/jasper2/
+production_url:  https://win.github.io/jasper2/
 source_url:  https://github.com/jekyllt/jasper2/
 
 exclude:
